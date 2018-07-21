@@ -1,0 +1,10 @@
+﻿{
+  "Id": "PersonalSonar",
+  "DisplayName": "PersonalSonar",
+  "Author": "KillerGoldFisch",
+  "Version": "1.0.0",
+  "Enable": true,
+  "AssemblyName": "PersonalSonar.dll",
+  "EntryMethod": "PersonalSonar.Main.main",
+  "Config": {}
+}
